@@ -38,7 +38,7 @@ struct ContentView: View {
                         
                         Button("Pancakes") {
                             breakfast = "🥞"
-                            text = "My opinion: Best with pancakes, but waffles are better."
+                            text = "My opinion: Best with pancakes, but waffles are better!"
                         }
                         .buttonStyle(.borderedProminent)
                         .tint(.orange)

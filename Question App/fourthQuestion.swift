@@ -48,7 +48,7 @@ struct fourthQuestion: View {
                         
                         Button("Donut") {
                             dessert = "🍩"
-                            text = "YESSSSS There's nothing wrong with tacos. Put whatever you want on there. Tacos are obviously the best food and you've obviously won this whole quiz congratulations"
+                            text = " There's nothing wrong with tacos. Put whatever you want on there. Tacos are obviously the best food and you've obviously won this whole quiz congratulations"
                         }
                         .buttonStyle(.borderedProminent)
                         .tint(.teal)

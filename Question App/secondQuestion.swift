@@ -68,7 +68,7 @@ struct secondQuestion: View {
                         
                         Button("Plain veggies") {
                             lunch = "🥒"
-                            text = "My opinion: Like a salad, but with less steps. I would rather eat it as a snack than lunch."
+                            text = "My opinion: Like a salad, but with less steps. I would rather eat it as a snack than lunch. Still good though!"
                         }
                         .tint(.green)
                         .buttonStyle(.borderedProminent)
